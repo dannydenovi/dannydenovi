@@ -94,6 +94,3 @@
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
     </a>
-</p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannydenovi&show_icons=true&locale=en" alt="dannydenovi" />
-</p>
