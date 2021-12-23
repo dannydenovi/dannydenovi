@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dannydenovi29@gmail.com**
 
-- 📄 Know about my experiences [url:https://dannydenovi.mifra.me](dannydenovi.mifra.me)
+- 📄 Know about my experiences [dannydenovi.mifra.me](https://dannydenovi.mifra.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
