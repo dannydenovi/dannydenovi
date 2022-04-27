@@ -16,6 +16,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dannydenovi_dev" height="30" width="40" />
   </a>
 </p>
+
+<h3>Stats</h3>
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannydenovi&show_icons=true&theme=radical)
+
+
 <h3>Knowledge</h3>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
