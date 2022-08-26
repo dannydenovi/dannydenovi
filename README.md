@@ -4,10 +4,9 @@ Hi 👋 My name is Danny De Novi
 Computer Science Student & Full Stack Developer
 -----------------------------------------------
 
-Currently studing Computer Science at University of Messina. My interests are artificial intelligence, low level programming and cyber security 💻 I'm a full stack developer at MIFRA Srl where I'm currently working with Java, Python, PHP (using the Laravel framework), MySQL and Bash scripting.
+Currently studing Computer Science at University of Messina. My interests are artificial intelligence, low level programming and cyber security 💻.
 
 * 🌍  I'm based in Messina, Italy
-* 🖥️  See my portfolio at [dannydenovi.mifra.me](http://dannydenovi.mifra.me)
 * ✉️  You can contact me at [dannydenovi@gmail.com](mailto:dannydenovi@gmail.com)
 * 🚀  I'm currently working on my Computer Science Degree 
 * 🧠  I'm learning Java, C++ and Rust
