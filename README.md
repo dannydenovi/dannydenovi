@@ -9,7 +9,7 @@ Currently studing Computer Science at University of Messina. My interests are ar
 * 🌍  I'm based in Messina, Italy
 * ✉️  You can contact me at [dannydenovi@gmail.com](mailto:dannydenovi@gmail.com)
 * 🚀  I'm currently working on my Computer Science Degree 
-* 🧠  I'm learning Java, C++ and Rust
+* 🧠  I'm learning Java.
 * 🤝  I'm open to collaborating on projects that concerns my knowledge and more...
 * ⚡  I'm a guitarist and pianist when I'm not coding 🎹, i love long walks in nature 🏔️
 
