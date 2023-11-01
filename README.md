@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danny De Novi</h1>
-<h3 align="center">Computer Science Student & Full Stack Developer</h3>
+<h3 align="center">Computer Scientists & Data Science Student</h3>
 
-Currently studing Computer Science at University of Messina. My interests are artificial intelligence, low level programming and cyber security 💻.
+Currently studing Data Science at University of Messina. My interests are artificial intelligence, low level programming and cyber security 💻.
 
 * 🌍  I'm based in Messina, Italy 🇮🇹🇪🇺
 * ✉️  You can contact me at [dannydenovi@gmail.com](mailto:dannydenovi@gmail.com)
-* 🚀  I'm currently working on my Computer Science Degree 
+* 🚀  I'm currently working on my Data Science Degree 
 * 🧠  I'm learning Tensorflow, Cyber Security, React.
 * 🤝  I'm open to collaborating on projects that concerns my knowledge and more...
 * ⚡  I'm a guitarist and pianist when I'm not coding 🎹, i love long walks in nature 🏔️
