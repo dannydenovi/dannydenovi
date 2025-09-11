@@ -4,7 +4,7 @@
 Currently studing Data Science at University of Messina. My interests are artificial intelligence, low level programming and cyber security 💻.
 
 * 🌍  I'm based in Messina, Italy 🇮🇹🇪🇺
-* ✉️  You can contact me at [dannydenovi@gmail.com](mailto:dannydenovi@gmail.com)
+* ✉️  You can contact me at [danny.denovi@unime.it](mailto:danny.denovi@unime.it)
 
 
 
