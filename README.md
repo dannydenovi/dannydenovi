@@ -7,7 +7,6 @@
 
 <p align="center">
     <a href="https://orcid.org/0009-0004-0423-7280"><img src="https://img.shields.io/badge/ORCID-0009--0004--0423--7280-brightgreen?logo=orcid&style=flat-square" alt="ORCID"></a>
-    <a href="https://www.linkedin.com/in/danny-de-novi-679b491a3/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
     <a href="mailto:danny.denovi@unime.it"><img src="https://img.shields.io/badge/Email-danny.denovi@unime.it-red?logo=gmail&style=flat-square" alt="Email"></a>
 </p>
 
